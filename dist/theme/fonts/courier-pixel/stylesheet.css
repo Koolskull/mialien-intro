@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'courier-pixel';
+    src: url('courier-pixel-monospaced-webfont.eot');
+    src: url('courier-pixel-monospaced-webfont.eot?#iefix') format('embedded-opentype'),
+         url('courier-pixel-monospaced-webfont.woff2') format('woff2'),
+         url('courier-pixel-monospaced-webfont.woff') format('woff'),
+         url('courier-pixel-monospaced-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
