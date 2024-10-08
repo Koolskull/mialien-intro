@@ -1,17 +1,17 @@
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
- @import url(./fonts/courier-pixel/stylesheet.css);
+ @import url(./fonts/kourier-pixel/stylesheet.css);
 
  
 :root {
   --r-background-color: #000000;
-  --r-main-font: courier-pixel, courier;
+  --r-main-font: kourier-pixel, courier;
   --r-main-font-size: 20px;
   --r-main-color: #7f7;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: courier-pixel, courier;
+  --r-heading-font: kourier-pixel, courier;
   --r-heading-color: #7f7;
   --r-heading-line-height: 1;
   --r-heading-letter-spacing: normal;
@@ -23,7 +23,7 @@
   --r-heading2-size: 1em;
   --r-heading3-size: 1em;
   --r-heading4-size: 1em;
-  --r-code-font: courier-pixel, courier;
+  --r-code-font: kourier-pixel, courier;
   --r-link-color: #99FF99;
   --r-link-color-dark: #00BB00;
   --r-link-color-hover: #00FF00;
