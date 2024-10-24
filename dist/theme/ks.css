@@ -11,7 +11,7 @@
   --r-main-color: #7f7;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: kourier-pixel, courier;
+  --r-heading-font: courier-pixel, courier;
   --r-heading-color: #7f7;
   --r-heading-line-height: 1;
   --r-heading-letter-spacing: normal;
@@ -23,7 +23,7 @@
   --r-heading2-size: 1em;
   --r-heading3-size: 1em;
   --r-heading4-size: 1em;
-  --r-code-font: kourier-pixel, courier;
+  --r-code-font: courier-pixel, courier;
   --r-link-color: #99FF99;
   --r-link-color-dark: #00BB00;
   --r-link-color-hover: #00FF00;
